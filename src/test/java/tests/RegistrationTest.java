@@ -23,7 +23,7 @@ public class RegistrationTest extends BaseTest {
                 .clickOnRegisterButton();
 
         assertThat(register.isErrorMessageDisplayed())
-                .as("The texts isn't displayed")
+                .as("The text isn't displayed")
                 .isTrue();
     }
 
