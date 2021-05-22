@@ -10,7 +10,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class RegistrationTest extends BaseTest {
     @Test
-    public void RegistrationTest() throws IOException {
+    public void checkRegistrationTest() throws IOException {
         MainPage mainPage = new MainPage();
 
         CreateAccountPage register = mainPage.clickOnRegisterButton()
@@ -26,5 +26,4 @@ public class RegistrationTest extends BaseTest {
                 .as("The text isn't displayed")
                 .isTrue();
     }
-
 }

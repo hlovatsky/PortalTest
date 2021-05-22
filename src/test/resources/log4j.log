@@ -1,0 +1,209 @@
+[INFO ] 2021-05-18 19:47:20 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-18 19:47:20 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-18 19:47:45 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-18 19:47:51 MainPage:38 :clickOnFrenchLanguageLink - message:Clicking on the frenchLanguageLink
+[INFO ] 2021-05-18 19:47:53 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 10:37:02 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 10:37:02 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 10:37:54 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 10:38:13 MainPage:38 :clickOnFrenchLanguageLink - message:Clicking on the frenchLanguageLink
+[INFO ] 2021-05-19 10:38:27 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 10:40:20 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 10:40:20 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 10:40:41 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 10:40:49 MainPage:38 :clickOnFrenchLanguageLink - message:Clicking on the frenchLanguageLink
+[INFO ] 2021-05-19 10:40:53 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 10:50:53 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 10:50:53 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 10:51:28 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 10:52:34 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 14:42:56 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 14:42:56 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 14:43:22 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 14:43:26 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 14:43:30 CreateAccountPage:73 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 14:43:32 CreateAccountPage:86 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 14:43:32 CreateAccountPage:90 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 14:43:32 CreateAccountPage:94 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 14:43:32 CreateAccountPage:98 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 14:43:32 CreateAccountPage:102 :writeIntoExcel - message:Creating cell licenseNumber with value 21548624
+[INFO ] 2021-05-19 14:43:34 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 14:44:39 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 14:44:39 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 14:44:49 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 14:44:51 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 14:44:55 CreateAccountPage:73 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 14:44:56 CreateAccountPage:86 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 14:44:56 CreateAccountPage:90 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 14:44:56 CreateAccountPage:94 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 14:44:56 CreateAccountPage:98 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 14:44:56 CreateAccountPage:102 :writeIntoExcel - message:Creating cell licenseNumber with value 21548624
+[INFO ] 2021-05-19 14:44:57 CreateAccountPage:119 :readFromExcel - message:Entering value in firstNameField
+[INFO ] 2021-05-19 14:44:58 CreateAccountPage:123 :readFromExcel - message:Entering value in lastNameField
+[INFO ] 2021-05-19 14:44:58 CreateAccountPage:127 :readFromExcel - message:Entering value in emailField
+[INFO ] 2021-05-19 14:44:58 CreateAccountPage:131 :readFromExcel - message:Entering value in emailVerifyField
+[INFO ] 2021-05-19 14:44:59 CreateAccountPage:135 :readFromExcel - message:Entering value in licenseNumberField
+[INFO ] 2021-05-19 14:45:00 CreateAccountPage:147 :selectSpeciality - message:Clicking on the specialityField and choose value
+[INFO ] 2021-05-19 14:45:00 CreateAccountPage:153 :selectGender - message:Clicking on the genderField and choose value
+[INFO ] 2021-05-19 14:45:00 CreateAccountPage:159 :selectProvince - message:Clicking on the proviceField and choose value
+[INFO ] 2021-05-19 14:45:00 CreateAccountPage:165 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 14:45:01 CreateAccountPage:171 :isErrorMessageDisplayed - message:Check is errorMassage displayed
+[INFO ] 2021-05-19 14:45:01 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 15:03:51 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 15:03:51 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 15:04:41 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 15:04:48 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 15:04:59 CreateAccountPage:74 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 15:05:01 CreateAccountPage:87 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 15:05:01 CreateAccountPage:91 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 15:05:01 CreateAccountPage:95 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:05:01 CreateAccountPage:99 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:05:01 CreateAccountPage:103 :writeIntoExcel - message:Creating cell licenseNumber with value 21548624
+[INFO ] 2021-05-19 15:05:06 CreateAccountPage:120 :readFromExcel - message:Entering value in firstNameField
+[INFO ] 2021-05-19 15:05:06 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 15:06:35 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 15:06:35 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 15:07:02 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 15:07:09 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 15:07:17 CreateAccountPage:74 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 15:07:20 CreateAccountPage:87 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 15:07:20 CreateAccountPage:91 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 15:07:20 CreateAccountPage:95 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:07:20 CreateAccountPage:99 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:07:20 CreateAccountPage:103 :writeIntoExcel - message:Creating cell licenseNumber with value 21548624
+[INFO ] 2021-05-19 15:07:26 CreateAccountPage:120 :readFromExcel - message:Entering value in firstNameField
+[INFO ] 2021-05-19 15:07:26 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 15:45:04 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 15:45:04 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 15:45:35 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 15:45:41 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 15:45:45 CreateAccountPage:74 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 15:45:47 CreateAccountPage:87 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 15:45:47 CreateAccountPage:91 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 15:45:47 CreateAccountPage:95 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:45:47 CreateAccountPage:99 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:45:47 CreateAccountPage:111 :writeIntoExcel - message:Creating cell licenseNumber with value 21548624
+[INFO ] 2021-05-19 15:45:51 CreateAccountPage:128 :readFromExcel - message:Entering value in firstNameField
+[INFO ] 2021-05-19 15:45:51 CreateAccountPage:132 :readFromExcel - message:Entering value in lastNameField
+[INFO ] 2021-05-19 15:45:52 CreateAccountPage:136 :readFromExcel - message:Entering value in emailField
+[INFO ] 2021-05-19 15:45:52 CreateAccountPage:140 :readFromExcel - message:Entering value in emailVerifyField
+[INFO ] 2021-05-19 15:45:52 CreateAccountPage:144 :readFromExcel - message:Entering value in licenseNumberField
+[INFO ] 2021-05-19 15:45:53 CreateAccountPage:161 :selectSpeciality - message:Clicking on the specialityField and choose value
+[INFO ] 2021-05-19 15:45:53 CreateAccountPage:167 :selectGender - message:Clicking on the genderField and choose value
+[INFO ] 2021-05-19 15:45:53 CreateAccountPage:173 :selectProvince - message:Clicking on the proviceField and choose value
+[INFO ] 2021-05-19 15:45:53 CreateAccountPage:179 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 15:45:55 CreateAccountPage:185 :isErrorMessageDisplayed - message:Check is errorMassage displayed
+[INFO ] 2021-05-19 15:45:57 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 15:47:59 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 15:47:59 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 15:48:18 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 15:48:22 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 15:48:25 CreateAccountPage:74 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 15:48:26 CreateAccountPage:87 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 15:48:26 CreateAccountPage:91 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 15:48:26 CreateAccountPage:95 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:48:26 CreateAccountPage:99 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:48:26 CreateAccountPage:111 :writeIntoExcel - message:Creating cell licenseNumber with value 21548624
+[INFO ] 2021-05-19 15:48:30 CreateAccountPage:128 :readFromExcel - message:Entering value in firstNameField
+[INFO ] 2021-05-19 15:48:31 CreateAccountPage:132 :readFromExcel - message:Entering value in lastNameField
+[INFO ] 2021-05-19 15:48:31 CreateAccountPage:136 :readFromExcel - message:Entering value in emailField
+[INFO ] 2021-05-19 15:48:31 CreateAccountPage:140 :readFromExcel - message:Entering value in emailVerifyField
+[INFO ] 2021-05-19 15:48:32 CreateAccountPage:144 :readFromExcel - message:Entering value in licenseNumberField
+[INFO ] 2021-05-19 15:48:32 CreateAccountPage:159 :selectSpeciality - message:Clicking on the specialityField and choose value
+[INFO ] 2021-05-19 15:48:33 CreateAccountPage:165 :selectGender - message:Clicking on the genderField and choose value
+[INFO ] 2021-05-19 15:48:33 CreateAccountPage:171 :selectProvince - message:Clicking on the proviceField and choose value
+[INFO ] 2021-05-19 15:48:33 CreateAccountPage:177 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 15:48:33 CreateAccountPage:183 :isErrorMessageDisplayed - message:Check is errorMassage displayed
+[INFO ] 2021-05-19 15:48:34 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 15:52:17 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 15:52:17 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 15:52:25 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 15:52:30 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 15:52:33 CreateAccountPage:74 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 15:52:35 CreateAccountPage:87 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 15:52:35 CreateAccountPage:91 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 15:52:35 CreateAccountPage:95 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:52:35 CreateAccountPage:99 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:52:35 CreateAccountPage:111 :writeIntoExcel - message:Creating cell licenseNumber with value 21548624
+[INFO ] 2021-05-19 15:52:37 CreateAccountPage:128 :readFromExcel - message:Entering value in firstNameField
+[INFO ] 2021-05-19 15:52:38 CreateAccountPage:132 :readFromExcel - message:Entering value in lastNameField
+[INFO ] 2021-05-19 15:52:39 CreateAccountPage:136 :readFromExcel - message:Entering value in emailField
+[INFO ] 2021-05-19 15:52:39 CreateAccountPage:140 :readFromExcel - message:Entering value in emailVerifyField
+[INFO ] 2021-05-19 15:52:40 CreateAccountPage:144 :readFromExcel - message:Entering value in licenseNumberField
+[INFO ] 2021-05-19 15:52:40 CreateAccountPage:159 :selectSpeciality - message:Clicking on the specialityField and choose value
+[INFO ] 2021-05-19 15:52:40 CreateAccountPage:165 :selectGender - message:Clicking on the genderField and choose value
+[INFO ] 2021-05-19 15:52:40 CreateAccountPage:171 :selectProvince - message:Clicking on the provinceField and choose value
+[INFO ] 2021-05-19 15:52:40 CreateAccountPage:177 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 15:52:42 CreateAccountPage:183 :isErrorMessageDisplayed - message:Check is errorMassage displayed
+[INFO ] 2021-05-19 15:52:42 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 15:53:36 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 15:53:36 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 15:53:44 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 15:53:47 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 15:53:49 CreateAccountPage:74 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 15:53:49 CreateAccountPage:87 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 15:53:49 CreateAccountPage:91 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 15:53:49 CreateAccountPage:95 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:53:49 CreateAccountPage:99 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 15:53:49 CreateAccountPage:111 :writeIntoExcel - message:Creating cell licenseNumber with value 21548624
+[INFO ] 2021-05-19 15:53:50 CreateAccountPage:128 :readFromExcel - message:Entering value in firstNameField
+[INFO ] 2021-05-19 15:53:50 CreateAccountPage:132 :readFromExcel - message:Entering value in lastNameField
+[INFO ] 2021-05-19 15:53:50 CreateAccountPage:136 :readFromExcel - message:Entering value in emailField
+[INFO ] 2021-05-19 15:53:51 CreateAccountPage:140 :readFromExcel - message:Entering value in emailVerifyField
+[INFO ] 2021-05-19 15:53:51 CreateAccountPage:144 :readFromExcel - message:Entering value in licenseNumberField
+[INFO ] 2021-05-19 15:53:51 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 16:12:45 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 16:12:45 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 16:13:18 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 16:13:29 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 16:13:33 CreateAccountPage:74 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 16:13:34 CreateAccountPage:87 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 16:13:34 CreateAccountPage:91 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 16:13:34 CreateAccountPage:95 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 16:13:34 CreateAccountPage:99 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 16:13:34 CreateAccountPage:103 :writeIntoExcel - message:Entering birthdate
+[INFO ] 2021-05-19 16:13:34 CreateAccountPage:107 :writeIntoExcel - message:Creating cell licenseNumber with value 21548624
+[INFO ] 2021-05-19 16:13:37 CreateAccountPage:124 :readFromExcel - message:Entering value in firstNameField
+[INFO ] 2021-05-19 16:13:37 CreateAccountPage:128 :readFromExcel - message:Entering value in lastNameField
+[INFO ] 2021-05-19 16:13:37 CreateAccountPage:132 :readFromExcel - message:Entering value in emailField
+[INFO ] 2021-05-19 16:13:38 CreateAccountPage:136 :readFromExcel - message:Entering value in emailVerifyField
+[INFO ] 2021-05-19 16:13:39 CreateAccountPage:140 :readFromExcel - message:Entering value in licenseNumberField
+[INFO ] 2021-05-19 16:13:40 CreateAccountPage:155 :selectSpeciality - message:Clicking on the specialityField and choose value
+[INFO ] 2021-05-19 16:13:40 CreateAccountPage:161 :selectGender - message:Clicking on the genderField and choose value
+[INFO ] 2021-05-19 16:13:40 CreateAccountPage:167 :selectProvince - message:Clicking on the provinceField and choose value
+[INFO ] 2021-05-19 16:13:40 CreateAccountPage:173 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 16:13:41 CreateAccountPage:179 :isErrorMessageDisplayed - message:Check is errorMassage displayed
+[INFO ] 2021-05-19 16:13:42 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 16:14:24 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 16:14:24 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 16:14:35 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 16:14:38 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 16:14:45 CreateAccountPage:74 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 16:14:46 CreateAccountPage:87 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 16:14:46 CreateAccountPage:91 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 16:14:46 CreateAccountPage:95 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 16:14:46 CreateAccountPage:99 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 16:14:46 CreateAccountPage:103 :writeIntoExcel - message:Entering birthdate
+[INFO ] 2021-05-19 16:14:46 CreateAccountPage:107 :writeIntoExcel - message:Creating cell licenseNumber with value 21548624
+[INFO ] 2021-05-19 16:14:48 CreateAccountPage:124 :readFromExcel - message:Entering value in firstNameField
+[INFO ] 2021-05-19 16:14:49 CreateAccountPage:128 :readFromExcel - message:Entering value in lastNameField
+[INFO ] 2021-05-19 16:14:49 CreateAccountPage:132 :readFromExcel - message:Entering value in emailField
+[INFO ] 2021-05-19 16:14:49 CreateAccountPage:136 :readFromExcel - message:Entering value in emailVerifyField
+[INFO ] 2021-05-19 16:14:50 CreateAccountPage:140 :readFromExcel - message:Entering value in licenseNumberField
+[INFO ] 2021-05-19 16:14:50 CreateAccountPage:155 :selectSpeciality - message:Clicking on the specialityField and choose value
+[INFO ] 2021-05-19 16:14:50 CreateAccountPage:161 :selectGender - message:Clicking on the genderField and choose value
+[INFO ] 2021-05-19 16:14:50 CreateAccountPage:167 :selectProvince - message:Clicking on the provinceField and choose value
+[INFO ] 2021-05-19 16:14:50 CreateAccountPage:173 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 16:14:51 CreateAccountPage:179 :isErrorMessageDisplayed - message:Check is errorMassage displayed
+[INFO ] 2021-05-19 16:14:52 BaseTest:29 :afterMethod - message:Closing site
+[INFO ] 2021-05-19 16:29:45 WebDriverManager:632 :resolveDriverVersion - message:Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-19 16:29:46 WebDriverManager:689 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\hlova\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-19 16:30:38 BaseTest:22 :beforeMethod - message:Opening site 
+[INFO ] 2021-05-19 16:30:43 MainPage:74 :clickOnRegisterButton - message:Clicking on the registerButton
+[INFO ] 2021-05-19 16:30:54 CreateAccountPage:79 :selectUserType - message:Clicking on the userTypeField and choose value
+[INFO ] 2021-05-19 16:30:57 CreateAccountPage:92 :writeIntoExcel - message:Creating cell firstName with value John
+[INFO ] 2021-05-19 16:30:57 CreateAccountPage:96 :writeIntoExcel - message:Creating cell lastName with value Johnson
+[INFO ] 2021-05-19 16:30:57 CreateAccountPage:100 :writeIntoExcel - message:Creating cell email with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 16:30:57 CreateAccountPage:104 :writeIntoExcel - message:Creating cell emailVerify with value test-test@gmail.gc.ca
+[INFO ] 2021-05-19 16:30:57 CreateAccountPage:108 :writeIntoExcel - message:Entering birthdate
+[INFO ] 2021-05-19 16:30:57 BaseTest:29 :afterMethod - message:Closing site
